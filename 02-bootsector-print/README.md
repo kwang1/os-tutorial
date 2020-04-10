@@ -54,6 +54,6 @@ Your boot sector will say 'Hello' and hang on an infinite loop
 
 ### Resources  
 **Register**  
-64 bit CPU architecture: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
+64 bit CPU architecture: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture  
 **interrupt**  
 https://en.wikipedia.org/wiki/BIOS_interrupt_call
