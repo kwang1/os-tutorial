@@ -51,3 +51,6 @@ Anyway, you know the drill:
 `qemu boot_sect_hello.bin`
 
 Your boot sector will say 'Hello' and hang on an infinite loop
+
+Resources
+64 bit CPU architecture: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
